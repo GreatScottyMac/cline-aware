@@ -1073,8 +1073,7 @@ export class Cline {
 							return `[${block.name} for '${block.params.server_name}']`
 						case "ask_followup_question":
 							return `[${block.name} for '${block.params.question}']`
-						case "attempt_completion":
-							return `[${block.name}]`
+						case "attempt_completion": return "";
 						case "switch_mode":
 							return `[${block.name} to '${block.params.mode_slug}'${block.params.reason ? ` because: ${block.params.reason}` : ""}]`
 						case "new_task": {

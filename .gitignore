@@ -3,6 +3,7 @@ out
 out-integration
 node_modules
 coverage/
+memory-bank/
 
 .DS_Store
 
