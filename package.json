@@ -305,7 +305,7 @@
 		"p-wait-for": "^5.0.2",
 		"pdf-parse": "^1.1.1",
 		"puppeteer-chromium-resolver": "^23.0.0",
-		"puppeteer-core": "^23.4.0",
+		"puppeteer-core": "^24.2.0",
 		"react-use": "^17.6.0",
 		"react-virtuoso": "^4.12.3",
 		"serialize-error": "^11.0.3",
