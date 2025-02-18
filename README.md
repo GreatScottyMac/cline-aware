@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 ## This is a concept for a future project, haven't had time to do anything with it yet!
-=======
+
 
 # Roo Code (prev. Roo Cline)
 
@@ -296,5 +295,3 @@ We love community contributions! Here’s how to get involved:
 ---
 
 **Enjoy Roo Code!** Whether you keep it on a short leash or let it roam autonomously, we can’t wait to see what you build. If you have questions or feature ideas, drop by our [Reddit community](https://www.reddit.com/r/RooCode/) or [Discord](https://roocode.com/discord). Happy coding!
-=======
->>>>>>> upstream/main
